@@ -25,3 +25,9 @@ Obviously, write your name instead of Matt
 That will update this github repo with the changes you made
 
 Don't hesistate to ask me questions if this isn't clear enough.
+
+Here are the UI drawings
+
+![Alt text](/PatientVersionMainActivityView.jpeg?raw=true "Main Activity View")
+![Alt text](/InstructionDetailView.jpeg?raw=true "Instruction Detail Activity View")
+![Alt text](/LoginActivityView.jpeg?raw=true "Login Activity View")
