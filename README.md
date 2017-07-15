@@ -17,7 +17,7 @@ Next download Android Studio and open this project, then do your part.
 When you done doing your part do
 ```
 git add .
-git commit "<your name>s part"
+git commit -m "<your name>s part"
 git push origin master
 ```
 
