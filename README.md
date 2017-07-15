@@ -17,11 +17,9 @@ Next download Android Studio and open this project, then do your part.
 When you done doing your part do
 ```
 git add .
-git commit -m "did Matts part"
+git commit -m "did <your-name>s part"
 git push origin master
 ```
-Obviously, write your name instead of Matt
-
 That will update this github repo with the changes you made
 
 Don't hesistate to ask me questions if this isn't clear enough.
