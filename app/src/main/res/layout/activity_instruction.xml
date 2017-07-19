@@ -4,42 +4,31 @@
     android:layout_height="match_parent"
     android:weightSum="1">
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="98dp"
-        android:layout_height="wrap_content"
-        android:text="List" />
-
-    <EditText
-        android:id="@+id/editText"
+    <TextView
+        android:id="@+id/description"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Instruction" />
+        android:layout_weight="0.05"
+        android:text="TextView" />
 
-    <EditText
-        android:id="@+id/editText4"
+    <TextView
+        android:id="@+id/details"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.97"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Details" />
+        android:layout_weight="0.71"
+        android:text="TextView" />
 
-    <EditText
-        android:id="@+id/editText5"
+    <TextView
+        android:id="@+id/time"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Time" />
+        android:layout_weight="0.10"
+        android:text="TextView" />
 
-    <EditText
-        android:id="@+id/editText6"
+    <TextView
+        android:id="@+id/doctor"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Doctor" />
+        android:layout_weight="0.05"
+        android:text="TextView" />
 </LinearLayout>
