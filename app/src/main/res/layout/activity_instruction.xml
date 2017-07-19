@@ -9,26 +9,26 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.05"
-        android:text="TextView" />
+        android:text="Description" />
 
     <TextView
         android:id="@+id/details"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.71"
-        android:text="TextView" />
+        android:text="Details " />
 
     <TextView
         android:id="@+id/time"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.10"
-        android:text="TextView" />
+        android:text="Time" />
 
     <TextView
         android:id="@+id/doctor"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.05"
-        android:text="TextView" />
+        android:text="Doctor" />
 </LinearLayout>
