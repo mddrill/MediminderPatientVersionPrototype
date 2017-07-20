@@ -8,21 +8,21 @@
         android:id="@+id/adapter_instruction"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.05"
+        android:layout_weight="0.07"
         android:text="Instruction" />
 
     <TextView
         android:id="@+id/adapter_time"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.05"
+        android:layout_weight="0.03"
         android:text="Time" />
 
     <TextView
         android:id="@+id/adapter_doctor"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="0.05"
+        android:layout_weight="0.03"
         android:text="Doctor" />
 
 </LinearLayout>
